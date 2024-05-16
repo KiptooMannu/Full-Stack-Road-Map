@@ -1,0 +1,33 @@
+[
+    
+    {
+        "id": 1,
+        "joke": "Why don't scientists trust atoms? Because they make up everything!",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "joke": "What's a programmer's favorite place? The Foo Bar!",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "joke": "Parallel lines have so much in common. It's a shame they'll never meet.",
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "joke": "What do you call a fake noodle? An Impasta.",
+        "rating": 3
+    },
+    {
+        "id": 5,
+        "joke": "What did the pirate say on his 80th birthday? Aye Matey!",
+        "rating": 3
+    },
+    {
+        "id": 6,
+        "joke": "What's the best part about living in Switzerland ? I don't know, but the flag is a big plus.",
+        "rating": 2
+    }
+]

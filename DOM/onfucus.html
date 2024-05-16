@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>Javascript HTML Events</h2>
+    <p>When the input field gets focus, a function is triggered which changes the background-color.</p>
+    Enter your name: <input type="text" onfocus="myFunction(this)">
+
+
+
+    <script>
+        function myFunction(x) {
+            x.style.background = 'lightgray';
+            x.style.fontSize = '20px';
+            x.style.color = 'red';
+        }
+    </script>
+
+</body>
+
+</html>
